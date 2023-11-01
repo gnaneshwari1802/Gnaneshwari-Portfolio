@@ -25,8 +25,12 @@ B-Tech in Computer Science Engineering
  -Tools used: Pandas, NLTK, BeautifulSoup, urllib, glob, Jupyter. 
  -Algorithms used: Naive Bayes, Classifier, Logistic Regression, SVM. 
  
- *Language Translation And Detection using langdetect and googletrans
+*Language Translation And Detection using langdetect and googletrans
+
 *Language Translation And Detection using spacy
+
 *Customer Segmentation And Movie Recommendation System
+
 *Rule Based Chat-Bot
+
 *French to English Language Conversion using Spacy
