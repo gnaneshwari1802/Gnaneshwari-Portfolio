@@ -10,6 +10,7 @@ B-Tech in Computer Science Engineering
  Worked as Application Developer @ Accenture
 
 #Projects
+
 *Bank Risk Analysis 
  -This project aims to identify the patterns which indicate if a client has difficulty paying their installments which may be  used for taking actions such as 
   denying the loan, reducing the amount of the loan, or predicting if a client will default or not. 
