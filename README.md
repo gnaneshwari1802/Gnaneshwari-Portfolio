@@ -38,13 +38,13 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupter " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/somesh-ghaturle/svg-s/blob/main/SNOW.svg" title="snowflake" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://www.kaggle.com/gnaneshwari123" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://images.app.goo.gl/bogf42ih4cCJmwW1A" title="Jupyter" alt="Jupter " width="40" height="40"/>&nbsp;
+  <img src="https://images.app.goo.gl/dnWUu5DNX7CPBn2k6"  title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://images.app.goo.gl/HofpgjqLKCRUk3fv9" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://images.app.goo.gl/SdUd5Pt5CGU6GkSPA" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://images.app.goo.gl/k1FX6Q6iZFnE7rDp9" title="Pytorch"  alt="Pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://images.app.goo.gl/eG9p2CaqGrySfzWy7" title="snowflake" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
