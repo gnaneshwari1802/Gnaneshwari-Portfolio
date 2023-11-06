@@ -82,31 +82,35 @@
 # Projects
 
 **Bank Risk Analysis 
+ - Repo:  
  - This project aims to identify the patterns which indicate if a client has difficulty paying their installments which may be  used for taking actions such as denying the loan, reducing the amount of the loan, 
    or predicting if a client will default or not. 
  - Tools used: Pandas, NumPy, Matplotlib, Seaborn, Jupyter. 
 
 **Sentiment Analysis 
+ - Repo:
  - This project aims to determine whether movie reviews are positive or negative so that the company can use this  sentiment analysis in a variety of settings, particularly for marketing purposes. 
  - Tools used: Pandas, NLTK, Sciket-learn, TextBlob, Jupyter. 
  - Algorithms used: Naive Bayes, Classifier, Logistic Regression, SVM. 
  
 **Web Scrapping
+ - Repo:
  - This project aims to scrap or extract the information present in the web using XML files
  - Tools used: Pandas, NLTK, BeautifulSoup, urllib, glob, Jupyter. 
  - Algorithms used: Naive Bayes, Classifier, Logistic Regression, SVM. 
  
 **Language Translation And Detection using langdetect and googletrans
-
+ - Repo:
+   
 **Language Translation And Detection using spacy
-
+ - Repo:
+   
 **Customer Segmentation And Movie Recommendation System
-
+ - Repo:
+   
 **Rule Based Chat-Bot
-
+ - Repo:
+   
 **French to English Language Conversion using Spacy
+ - Repo:
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=somesh-ghaturle&theme=gruvbox_duo&hide_border=true&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-ghaturle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
