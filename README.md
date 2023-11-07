@@ -100,9 +100,9 @@
  - Tools used: Pandas, NLTK, BeautifulSoup, urllib, glob, Jupyter. 
  - Algorithms used: Naive Bayes, Classifier, Logistic Regression, SVM. 
  
-**Language Translation And Detection using langdetect and googletrans
+**Language Translation And Detection using langdetect and googletrans**
  - Repo: https://github.com/gnaneshwari1802/Flask-Apps/tree/7b574b8e9e476ad6fdd413edfcae2612ee75d249/Language%20Translation%20using%20langdetect%20and%20%20googletrans
-   https://link.shutterfly.com/tXqCkE6uxEb
+ - https://link.shutterfly.com/tXqCkE6uxEb
    
 **Language Translation And Detection using spacy
  - Repo: 
