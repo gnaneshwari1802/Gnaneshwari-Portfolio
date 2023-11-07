@@ -105,13 +105,13 @@
  - https://link.shutterfly.com/tXqCkE6uxEb
    
 **Language Translation And Detection using spacy
- - Repo: 
+ - Repo: https://github.com/gnaneshwari1802/Abstract_Activity/blob/main/How%20to%20detect%20languages%20with%20SpaCy.ipynb
    
 **Customer Segmentation And Movie Recommendation System
- - Repo: 
+ - Repo: https://github.com/gnaneshwari1802/Abstract_Activity/blob/main/pandas-with-data-science-ai%20MovieLens%2020M%20Dataset%2C%20MovielensLatest.ipynb
    
 **Rule Based Chat-Bot
- - Repo:
+ 
    
 **French to English Language Conversion using Spacy
  - Repo:
