@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
-  <a href="https://twitter.com/SomeshGhaturle">
+  <a href="[https://twitter.com/](https://twitter.com/gnanu34242)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -82,8 +82,8 @@
 # Projects
 
 **Bank Risk Analysis** 
- - (https://link.shutterfly.com/AJ4bCmvsxEb)
- - (https://docs.google.com/presentation/d/1CzLwygYYwW7oSR0jN4GMscLtS3iE-RtivMw3kns4c28/edit?usp=sharing)
+ - [](https://link.shutterfly.com/AJ4bCmvsxEb)
+ - [](https://docs.google.com/presentation/d/1CzLwygYYwW7oSR0jN4GMscLtS3iE-RtivMw3kns4c28/edit?usp=sharing)
  - This project aims to identify the patterns which indicate if a client has difficulty paying their installments which may be  used for taking actions such as denying the loan, reducing the amount of the loan, 
    or predicting if a client will default or not. 
  - Tools used: Pandas, NumPy, Matplotlib, Seaborn, Jupyter. 
