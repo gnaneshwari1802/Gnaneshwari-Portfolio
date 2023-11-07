@@ -81,32 +81,34 @@
 
 # Projects
 
-**Bank Risk Analysis 
- - Repo:  
+**Bank Risk Analysis** 
+ - https://link.shutterfly.com/AJ4bCmvsxEb
+ - https://docs.google.com/presentation/d/1CzLwygYYwW7oSR0jN4GMscLtS3iE-RtivMw3kns4c28/edit?usp=sharing
  - This project aims to identify the patterns which indicate if a client has difficulty paying their installments which may be  used for taking actions such as denying the loan, reducing the amount of the loan, 
    or predicting if a client will default or not. 
  - Tools used: Pandas, NumPy, Matplotlib, Seaborn, Jupyter. 
 
-**Sentiment Analysis 
- - Repo:
+**Sentiment Analysis** 
+ - https://link.shutterfly.com/cPZoSSItxEb
  - This project aims to determine whether movie reviews are positive or negative so that the company can use this  sentiment analysis in a variety of settings, particularly for marketing purposes. 
  - Tools used: Pandas, NLTK, Sciket-learn, TextBlob, Jupyter. 
  - Algorithms used: Naive Bayes, Classifier, Logistic Regression, SVM. 
  
-**Web Scrapping
- - Repo:
+**Web Scrapping**
+ - https://link.shutterfly.com/uQND6mvuxEb
  - This project aims to scrap or extract the information present in the web using XML files
  - Tools used: Pandas, NLTK, BeautifulSoup, urllib, glob, Jupyter. 
  - Algorithms used: Naive Bayes, Classifier, Logistic Regression, SVM. 
  
 **Language Translation And Detection using langdetect and googletrans
- - Repo:
+ - Repo: https://github.com/gnaneshwari1802/Flask-Apps/tree/7b574b8e9e476ad6fdd413edfcae2612ee75d249/Language%20Translation%20using%20langdetect%20and%20%20googletrans
+   https://link.shutterfly.com/tXqCkE6uxEb
    
 **Language Translation And Detection using spacy
- - Repo:
+ - Repo: 
    
 **Customer Segmentation And Movie Recommendation System
- - Repo:
+ - Repo: 
    
 **Rule Based Chat-Bot
  - Repo:
