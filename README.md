@@ -66,13 +66,17 @@
 
 # Work Experience
  - Worked as an Inter(Associate Software Engineer) @ Splash BI
+ - [Link](https://www.canva.com/design/DAFzd_G5qCM/PSlt-pBvxqpZ8nLKhyWp-Q/edit?utm_content=DAFzd_G5qCM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ - [Link](https://www.canva.com/design/DAFzd3hJkQY/_Q27h7ik9HwTVnM-upOYQw/edit)
  - Worked as Application Developer @ Accenture
+ - [Link](https://www.canva.com/design/DAFzdxJT7k0/-RV4NyvIsbNqvZ727gw5sw/edit?utm_content=DAFzdxJT7k0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ - [Link](https://drive.google.com/file/d/1UmFDNaLIQ4IADtz0Koe0bHI6sx0Q4T-6/view?usp=sharing)
 
 # Projects
 
 **Bank Risk Analysis** 
- - [](https://link.shutterfly.com/AJ4bCmvsxEb)
- - [](https://docs.google.com/presentation/d/1CzLwygYYwW7oSR0jN4GMscLtS3iE-RtivMw3kns4c28/edit?usp=sharing)
+ - https://link.shutterfly.com/AJ4bCmvsxEb
+ - https://docs.google.com/presentation/d/1CzLwygYYwW7oSR0jN4GMscLtS3iE-RtivMw3kns4c28/edit?usp=sharing
  - This project aims to identify the patterns which indicate if a client has difficulty paying their installments which may be  used for taking actions such as denying the loan, reducing the amount of the loan, 
    or predicting if a client will default or not. 
  - Tools used: Pandas, NumPy, Matplotlib, Seaborn, Jupyter. 
