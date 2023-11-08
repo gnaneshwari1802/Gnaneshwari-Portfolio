@@ -1,7 +1,3 @@
-<div id="header" align="Left">
-  <img src="https://images.app.goo.gl/BqsguQra1ZaDPBKp9" width="100"/>
-</div>
-
 <div id="badges" align="Left">
   <a href="https://www.linkedin.com/in/gnaneshwari-mahimaluru-041a731a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
