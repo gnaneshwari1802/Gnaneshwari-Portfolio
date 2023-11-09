@@ -109,13 +109,13 @@
 **French to English Language Conversion using Spacy** 
 
 
-**Tableau Practise** 
+**Tableau Dash Boards** 
  - https://public.tableau.com/shared/ZFH4948QW?:display_count=n&:origin=viz_share_link
  - https://public.tableau.com/views/ExecutiveOverview_16991909696850/ExecutiveOverview?:language=en-US&:display_count=n&:origin=viz_share_link
  - https://public.tableau.com/views/ratingsmoviesfromknncsmrsystem/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
  - https://public.tableau.com/views/Book2Barchart/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-**Power BI** 
+**Power BI Dash Boards** 
  - https://app.powerbi.com/links/J96Vs_3Ey-?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare&bookmarkGuid=0639f5dc-10f8-4709-8719-70142efc7674
  - https://link.shutterfly.com/w7HOfjqsAEb
  - https://app.powerbi.com/links/C7hmRFXb4X?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare
