@@ -118,3 +118,6 @@
 **Power BI** 
  - https://app.powerbi.com/links/J96Vs_3Ey-?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare&bookmarkGuid=0639f5dc-10f8-4709-8719-70142efc7674
  - https://link.shutterfly.com/w7HOfjqsAEb
+ - https://app.powerbi.com/links/C7hmRFXb4X?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare
+ - https://app.powerbi.com/links/5Pl_J3C0jR?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare
+ - https://app.powerbi.com/links/_prn5RX-Ed?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare
