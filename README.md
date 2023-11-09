@@ -111,3 +111,6 @@
 
 **Tableau Practise** 
  - https://public.tableau.com/shared/ZFH4948QW?:display_count=n&:origin=viz_share_link
+ - https://public.tableau.com/views/ExecutiveOverview_16991909696850/ExecutiveOverview?:language=en-US&:display_count=n&:origin=viz_share_link
+ - https://public.tableau.com/views/ratingsmoviesfromknncsmrsystem/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+ - https://public.tableau.com/views/Book2Barchart/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
