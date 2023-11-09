@@ -104,7 +104,7 @@
  - Repo: https://github.com/gnaneshwari1802/Abstract_Activity/blob/main/pandas-with-data-science-ai%20MovieLens%2020M%20Dataset%2C%20MovielensLatest.ipynb
    
 **Rule Based Chat-Bot** 
- 
+ - https://link.shutterfly.com/PQPuYteEAEb
    
 **French to English Language Conversion using Spacy** 
 
