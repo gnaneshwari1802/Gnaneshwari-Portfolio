@@ -121,3 +121,5 @@
  - https://app.powerbi.com/links/C7hmRFXb4X?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare
  - https://app.powerbi.com/links/5Pl_J3C0jR?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare
  - https://app.powerbi.com/links/_prn5RX-Ed?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare
+ - <iframe title="The+bad+dashboard_solution" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ca27667a-4923-4129-832e-0991cddcabc1&autoAuth=true&ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7" frameborder="0" allowFullScreen="true"></iframe>
+ 
