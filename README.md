@@ -106,8 +106,8 @@
 **Rule Based Chat-Bot** 
  
    
-**French to English Language Conversion using Spacy
- - Repo:
+**French to English Language Conversion using Spacy** 
+
 
 **Tableau Practise** 
  - https://public.tableau.com/shared/ZFH4948QW?:display_count=n&:origin=viz_share_link
