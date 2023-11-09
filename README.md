@@ -106,8 +106,8 @@
 **Rule Based Chat-Bot** 
  - https://link.shutterfly.com/PQPuYteEAEb
    
-**French to English Language Conversion using Spacy** 
-
+**French to English Language Conversion using google translator** 
+ - https://link.shutterfly.com/jpIgbsDEAEb
 
 **Tableau Dash Boards** 
  - https://public.tableau.com/shared/ZFH4948QW?:display_count=n&:origin=viz_share_link
