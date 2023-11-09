@@ -97,13 +97,13 @@
  - Repo: https://github.com/gnaneshwari1802/Flask-Apps/tree/7b574b8e9e476ad6fdd413edfcae2612ee75d249/Language%20Translation%20using%20langdetect%20and%20%20googletrans
  - https://link.shutterfly.com/tXqCkE6uxEb
    
-**Language Translation And Detection using spacy
+**Language Translation And Detection using spacy** 
  - Repo: https://github.com/gnaneshwari1802/Abstract_Activity/blob/main/How%20to%20detect%20languages%20with%20SpaCy.ipynb
    
-**Customer Segmentation And Movie Recommendation System
+**Customer Segmentation And Movie Recommendation System** 
  - Repo: https://github.com/gnaneshwari1802/Abstract_Activity/blob/main/pandas-with-data-science-ai%20MovieLens%2020M%20Dataset%2C%20MovielensLatest.ipynb
    
-**Rule Based Chat-Bot
+**Rule Based Chat-Bot** 
  
    
 **French to English Language Conversion using Spacy
