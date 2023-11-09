@@ -114,3 +114,7 @@
  - https://public.tableau.com/views/ExecutiveOverview_16991909696850/ExecutiveOverview?:language=en-US&:display_count=n&:origin=viz_share_link
  - https://public.tableau.com/views/ratingsmoviesfromknncsmrsystem/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
  - https://public.tableau.com/views/Book2Barchart/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+**Power BI** 
+ - https://app.powerbi.com/links/J96Vs_3Ey-?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare&bookmarkGuid=0639f5dc-10f8-4709-8719-70142efc7674
+ - https://link.shutterfly.com/w7HOfjqsAEb
