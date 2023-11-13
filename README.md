@@ -122,3 +122,11 @@
  - https://app.powerbi.com/links/5Pl_J3C0jR?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare
  - https://app.powerbi.com/links/_prn5RX-Ed?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare
    
+**Excel** 
+- https://docs.google.com/spreadsheets/d/1_KTVw0wKfVfdgEits0W2o9Q6pIIV5eUH/edit?usp=sh aring&ouid=114976463775882040929&rtpof=true&sd=true
+- https://docs.google.com/spreadsheets/d/1RyWtafzM1VGWXCE4_Iy-daDmjuMFfEmsVRzLi6vlS o0/edit?usp=sharing
+- https://docs.google.com/spreadsheets/d/1PUD7d51cpO69H3kNT4IH_1MP6PeFIL0A5utJs-zhTq g/edit?usp=sharing
+- https://docs.google.com/spreadsheets/d/1Y0BXixt-JXJOMRbWKQM7CU9gW5I68Dw8u8PX1R- nIsw/edit?usp=sharing
+- https://docs.google.com/spreadsheets/d/1Ne8msOOTjoURc1kzholuTJKgOacw-0iqJSPFft6N1D w/edit?usp=sharing
+- https://docs.google.com/spreadsheets/d/12Tls87Wx7zqPe7cid_XlEV-63_sSs3IoC1E-sK9idgE/e dit?usp=sharing
+- Sales_data_sample.xlsx
