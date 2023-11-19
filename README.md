@@ -23,9 +23,9 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I Think about how to develop myself .
 - :) 
----
+<!-----
 
- <!--### :hammer_and_wrench: Languages and Tools :
+ ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://www.kaggle.com/gnaneshwari123" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
  <img src="https://images.app.goo.gl/bogf42ih4cCJmwW1A" title="Jupyter" alt="Jupter " width="40" height="40"/>&nbsp;
