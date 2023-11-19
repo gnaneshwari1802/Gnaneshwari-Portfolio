@@ -70,7 +70,7 @@
  - [Link](https://www.canva.com/design/DAFzd3hJkQY/_Q27h7ik9HwTVnM-upOYQw/edit)
  - Worked as Application Developer @ Accenture
  - [Link](https://www.canva.com/design/DAFzdxJT7k0/-RV4NyvIsbNqvZ727gw5sw/edit?utm_content=DAFzdxJT7k0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
- - [Link](https://drive.google.com/file/d/1UmFDNaLIQ4IADtz0Koe0bHI6sx0Q4T-6/view?usp=sharing)
+ - [Link](https://drive.google.com/file/d/1hIQSXmFZ8k3W-C_-L44UGXGOm8EPqYlw/view)
 
 # Projects
 
