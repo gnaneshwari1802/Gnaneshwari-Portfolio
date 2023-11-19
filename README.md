@@ -25,10 +25,10 @@
 - :) 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+ <!--### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://www.kaggle.com/gnaneshwari123" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-  <!--<img src="https://images.app.goo.gl/bogf42ih4cCJmwW1A" title="Jupyter" alt="Jupter " width="40" height="40"/>&nbsp;
+ <img src="https://images.app.goo.gl/bogf42ih4cCJmwW1A" title="Jupyter" alt="Jupter " width="40" height="40"/>&nbsp;
   <img src="https://images.app.goo.gl/dnWUu5DNX7CPBn2k6"  title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://images.app.goo.gl/HofpgjqLKCRUk3fv9" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://images.app.goo.gl/SdUd5Pt5CGU6GkSPA" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
