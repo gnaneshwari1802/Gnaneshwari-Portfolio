@@ -28,7 +28,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://www.kaggle.com/gnaneshwari123" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://images.app.goo.gl/bogf42ih4cCJmwW1A" title="Jupyter" alt="Jupter " width="40" height="40"/>&nbsp;
+  <!--<img src="https://images.app.goo.gl/bogf42ih4cCJmwW1A" title="Jupyter" alt="Jupter " width="40" height="40"/>&nbsp;
   <img src="https://images.app.goo.gl/dnWUu5DNX7CPBn2k6"  title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://images.app.goo.gl/HofpgjqLKCRUk3fv9" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://images.app.goo.gl/SdUd5Pt5CGU6GkSPA" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" **alt="Scala" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40"height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" **alt="Xcode" width="40" height="40"/></div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" **alt="Xcode" width="40" height="40"/></div>-->
 
 ----
 
