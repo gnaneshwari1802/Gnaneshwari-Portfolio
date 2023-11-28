@@ -130,3 +130,5 @@
 - https://docs.google.com/spreadsheets/d/1Ne8msOOTjoURc1kzholuTJKgOacw-0iqJSPFft6N1D w/edit?usp=sharing
 - https://docs.google.com/spreadsheets/d/12Tls87Wx7zqPe7cid_XlEV-63_sSs3IoC1E-sK9idgE/e dit?usp=sharing
 - Sales_data_sample.xlsx
+- https://1drv.ms/x/s!Ai__AMiVPNaigVxDb2WZqrKxgvtJ?e=9Wt8eA
+- 
