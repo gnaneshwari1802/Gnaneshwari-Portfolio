@@ -77,18 +77,21 @@
 **Bank Risk Analysis** 
  - [https://link.shutterfly.com/AJ4bCmvsxEb](https://link.shutterfly.com/AJ4bCmvsxEb)
  - [https://docs.google.com/presentation/d/1CzLwygYYwW7oSR0jN4GMscLtS3iE-RtivMw3kns4c28/edit?usp=sharing](https://drive.google.com/file/d/1vSGsrwzCIrSnImojoHLEOEyKkaivdFfc/view?usp=sharing)
+ - [https://github.com/gnaneshwari1802/EDA-Bank-Loan-Default-Risk-Analysis](https://github.com/gnaneshwari1802/EDA-Bank-Loan-Default-Risk-Analysis/blob/b788416ea6ec3a8140c9e1ce6e379e08c9b1e186/eda-bank-loan-default-risk-analysis.ipynb)
  - This project aims to identify the patterns which indicate if a client has difficulty paying their installments which may be  used for taking actions such as denying the loan, reducing the amount of the loan, 
    or predicting if a client will default or not. 
  - Tools used: Pandas, NumPy, Matplotlib, Seaborn, Jupyter. 
 
 **Sentiment Analysis** 
  - [https://link.shutterfly.com/cPZoSSItxEb](https://link.shutterfly.com/cPZoSSItxEb)
+ - [https://github.com/gnaneshwari1802/sentiment-analysis-of-imdb-movie-reviews/blob/aebf748c8558b962a34624669ef2e5ee0c438f92/sentiment-analysis-of-imdb-movie-reviews.ipynb](https://github.com/gnaneshwari1802/sentiment-analysis-of-imdb-movie-reviews/blob/aebf748c8558b962a34624669ef2e5ee0c438f92/sentiment-analysis-of-imdb-movie-reviews.ipynb)
  - This project aims to determine whether movie reviews are positive or negative so that the company can use this  sentiment analysis in a variety of settings, particularly for marketing purposes. 
  - Tools used: Pandas, NLTK, Sciket-learn, TextBlob, Jupyter. 
  - Algorithms used: Naive Bayes, Classifier, Logistic Regression, SVM. 
  
 **Web Scrapping**
  - [https://link.shutterfly.com/uQND6mvuxEb](https://link.shutterfly.com/uQND6mvuxEb)
+ - [https://github.com/gnaneshwari1802/web-scraping-using-xml.git](https://github.com/gnaneshwari1802/web-scraping-using-xml.git)
  - This project aims to scrap or extract the information present in the web using XML files
  - Tools used: Pandas, NLTK, BeautifulSoup, urllib, glob, Jupyter. 
  - Algorithms used: Naive Bayes, Classifier, Logistic Regression, SVM. 
