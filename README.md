@@ -98,19 +98,23 @@
  
 **Language Translation And Detection using langdetect and googletrans**
  - Repo: https://github.com/gnaneshwari1802/Flask-Apps/tree/7b574b8e9e476ad6fdd413edfcae2612ee75d249/Language%20Translation%20using%20langdetect%20and%20%20googletrans
+ - [https://github.com/gnaneshwari1802/Language-Translation-And-Detection-using-spacy/tree/cff658f0a9aedb45ae4b9714cc5f582fce6b5d4e/Language%20Translation%20using%20langdetect%20and%20%20googletrans](https://github.com/gnaneshwari1802/Language-Translation-And-Detection-using-spacy/tree/cff658f0a9aedb45ae4b9714cc5f582fce6b5d4e/Language%20Translation%20using%20langdetect%20and%20%20googletrans)
  - https://link.shutterfly.com/tXqCkE6uxEb
    
 **Language Translation And Detection using spacy** 
  - Repo: https://github.com/gnaneshwari1802/Abstract_Activity/blob/main/How%20to%20detect%20languages%20with%20SpaCy.ipynb
+ - [https://github.com/gnaneshwari1802/Language-Translation-And-Detection-using-spacy/tree/cff658f0a9aedb45ae4b9714cc5f582fce6b5d4e/Language%20Translation%20using%20langdetect%20and%20%20googletrans](https://github.com/gnaneshwari1802/Language-Translation-And-Detection-using-spacy/tree/cff658f0a9aedb45ae4b9714cc5f582fce6b5d4e/Language%20Translation%20using%20langdetect%20and%20%20googletrans)
    
 **Customer Segmentation And Movie Recommendation System** 
  - Repo: https://github.com/gnaneshwari1802/Abstract_Activity/blob/main/pandas-with-data-science-ai%20MovieLens%2020M%20Dataset%2C%20MovielensLatest.ipynb
    
 **Rule Based Chat-Bot** 
  - https://link.shutterfly.com/PQPuYteEAEb
+ - [https://github.com/gnaneshwari1802/Rule-based-chatbot/blob/91120bd59b3ff113172bdaae53c59b413166678f/chatbot%20project.py](https://github.com/gnaneshwari1802/Rule-based-chatbot/blob/91120bd59b3ff113172bdaae53c59b413166678f/chatbot%20project.py)
    
 **French to English Language Conversion using google translator** 
  - https://link.shutterfly.com/jpIgbsDEAEb
+ - [https://github.com/gnaneshwari1802/French-to-English-Language-Conversion-using-google-translator.git](https://github.com/gnaneshwari1802/French-to-English-Language-Conversion-using-google-translator.git)
 
 **Tableau Dash Boards** 
  - https://public.tableau.com/shared/ZFH4948QW?:display_count=n&:origin=viz_share_link
