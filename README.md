@@ -1,3 +1,64 @@
+Gnaneshwari's Data Science Portfolio
+About Me
+🌱 Currently Learning: Deep Learning with PyTorch
+👯 Open to Collaborate: Looking for Freelance Projects
+💬 Ask Me About: Anything Related to Data Science
+😄 Pronouns: She/Her
+⚡ Fun Fact: Always thinking about self-improvement!
+Education
+B.Tech, Computer Science Engineering
+Keshav Memorial Institute of Technology, JNTUH, Hyderabad
+CGPA: 7.8
+Intermediate, MPC (Maths, Physics, Chemistry)
+Narayana Junior College, Hyderabad
+Percentage: 95%
+Schooling (Matriculation)
+Chaitanya School, Hyderabad
+CGPA: 9.8
+Work Experience
+Splash BI (Associate Software Engineer)
+Worked on projects related to data analysis and visualization.
+Project Details
+Accenture (Application Developer)
+Contributed to application development projects.
+Project Details
+Projects
+Bank Risk Analysis
+Project Report
+GitHub Repository
+Identified patterns indicating difficulty in paying installments for client risk assessment.
+Sentiment Analysis
+Project Report
+GitHub Repository
+Determined sentiment of IMDB movie reviews for marketing insights.
+Web Scraping
+Project Report
+GitHub Repository
+Extracted information from websites using XML files.
+Language Translation & Detection
+GitHub Repository
+Translated languages and detected languages using various libraries.
+Customer Segmentation & Movie Recommendation
+GitHub Repository
+Segmented customers and developed a movie recommendation system.
+Tools & Technologies
+Python, Pandas, NumPy, Matplotlib, Seaborn
+NLTK, TextBlob, Scikit-learn
+TensorFlow, PyTorch
+Jupyter, VS Code
+Firebase, Snowflake
+MySQL, MongoDB
+Azure, AWS
+GitHub, Tableau, Power BI
+Excel
+Feel free to reach out to me via LinkedIn or Gmail for collaborations or inquiries.
+
+<div align="center">
+  <img src="https://github.com/somesh-ghaturle/svg-s/blob/main/giphy-downsized-large.gif" width="600" height="300"/>
+</div>
+This version organizes your content into sections, provides clear headings, and includes direct links to your projects and repositories for easy access. Additionally, it maintains a professional tone and highlights your skills and experience effectively. Let me know if there are any specific changes or additions you'd like to make!
+
+User
 <div id="badges" align="Left">
   <a href="https://www.linkedin.com/in/gnaneshwari-mahimaluru-041a731a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -139,3 +200,67 @@
 - Sales_data_sample.xlsx
 - https://1drv.ms/x/s!Ai__AMiVPNaigVxDb2WZqrKxgvtJ?e=9Wt8eA
 - 
+ChatGPT
+It looks like you've provided a mix of content for your portfolio, including links to badges, social media profiles, education details, work experience, and various projects. Here's a refined version of your portfolio:
+
+<div align="left" id="badges">
+  <a href="https://www.linkedin.com/in/gnaneshwari-mahimaluru-041a731a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=gnaneshwari.m2009@gmail.com&body=">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://twitter.com/gnanu34242">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+:woman_technologist: About Me :
+🔭 Currently Seeking: Data Science Engineer positions.
+🌱 Currently Learning: Deep Learning with PyTorch.
+👯 Open to Collaborate: Freelance Projects.
+💬 Ask Me About: Anything Related to Data Science.
+😄 Pronouns: She/Her.
+⚡ Fun Fact: Always thinking about self-improvement!
+:mortar_board: Education:
+B.Tech, Computer Science Engineering
+
+Keshav Memorial Institute of Technology, JNTUH, Hyderabad
+CGPA: 7.8
+Intermediate, MPC (Maths, Physics, Chemistry)
+
+Narayana Junior College, Hyderabad
+Percentage: 95%
+Schooling (Matriculation)
+
+Chaitanya School, Hyderabad
+CGPA: 9.8
+:briefcase: Work Experience:
+Splash BI (Associate Software Engineer)
+Project Details
+Accenture (Application Developer)
+Project Details
+:chart_with_upwards_trend: Projects:
+Bank Risk Analysis
+
+Project Report
+GitHub Repository
+Sentiment Analysis
+
+Project Report
+GitHub Repository
+Web Scraping
+
+Project Report
+GitHub Repository
+Language Translation & Detection (using langdetect and googletrans)
+
+GitHub Repository
+Language Translation & Detection (using spacy)
+
+GitHub Repository
+Customer Segmentation & Movie Recommendation System
+
+GitHub Repository
+:hammer_and_wrench: Tools & Technologies:
+Python, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Scikit-learn, TensorFlow, PyTorch, Jupyter, VS Code, Firebase, Snowflake, MySQL, MongoDB, Azure, AWS, GitHub, Tableau, Power BI, Excel.
+
