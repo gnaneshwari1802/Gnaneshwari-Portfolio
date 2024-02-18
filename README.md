@@ -66,7 +66,29 @@
 **Customer Segmentation & Movie Recommendation System**
 - [GitHub Repository](https://github.com/gnaneshwari1802/Abstract_Activity/blob/main/pandas-with-data-science-ai%20MovieLens%2020M%20Dataset%2C%20MovielensLatest.ipynb)
 
----
+**Tableau Dashboards** 
+- [Dashboard 1](https://public.tableau.com/shared/ZFH4948QW?:display_count=n&:origin=viz_share_link)
+- [Executive Overview](https://public.tableau.com/views/ExecutiveOverview_16991909696850/ExecutiveOverview?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Ratings Movies from KNN-CF and MRS System](https://public.tableau.com/views/ratingsmoviesfromknncsmrsystem/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Book2 Barchart](https://public.tableau.com/views/Book2Barchart/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+**Power BI Dashboards** 
+- [Dashboard 1](https://app.powerbi.com/links/J96Vs_3Ey-?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare&bookmarkGuid=0639f5dc-10f8-4709-8719-70142efc7674)
+- [Dashboard 2](https://link.shutterfly.com/w7HOfjqsAEb)
+- [Dashboard 3](https://app.powerbi.com/links/C7hmRFXb4X?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
+- [Dashboard 4](https://app.powerbi.com/links/5Pl_J3C0jR?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
+- [Dashboard 5](https://app.powerbi.com/links/_prn5RX-Ed?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
+
+**Excel Files**
+- [Excel File 1](https://docs.google.com/spreadsheets/d/1_KTVw0wKfVfdgEits0W2o9Q6pIIV5eUH/edit?usp=sharing&ouid=114976463775882040929&rtpof=true&sd=true)
+- [Excel File 2](https://docs.google.com/spreadsheets/d/1RyWtafzM1VGWXCE4_Iy-daDmjuMFfEmsVRzLi6vlSo0/edit?usp=sharing)
+- [Excel File 3](https://docs.google.com/spreadsheets/d/1PUD7d51cpO69H3kNT4IH_1MP6PeFIL0A5utJs-zhTqg/edit?usp=sharing)
+- [Excel File 4](https://docs.google.com/spreadsheets/d/1Y0BXixt-JXJOMRbWKQM7CU9gW5I68Dw8u8PX1R-nIsw/edit?usp=sharing)
+- [Excel File 5](https://docs.google.com/spreadsheets/d/1Ne8msOOTjoURc1kzholuTJKgOacw-0iqJSPFft6N1Dw/edit?usp=sharing)
+- [Excel File 6](https://docs.google.com/spreadsheets/d/12Tls87Wx7zqPe7cid_XlEV-63_sSs3IoC1E-sK9idgE/edit?usp=sharing)
+- [Sales_data_sample.xlsx](Sales_data_sample.xlsx)
+- [Additional Excel File](https://1drv.ms/x/s!Ai__AMiVPNaigVxDb2WZqrKxgvtJ?e=9Wt8eA)
+
 
 ### :hammer_and_wrench: Tools & Technologies:
 Python, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Scikit-learn, TensorFlow, PyTorch, Jupyter, VS Code, Firebase, Snowflake, MySQL, MongoDB, Azure, AWS, GitHub, Tableau, Power BI, Excel.
