@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/somesh-ghaturle/svg-s/blob/main/giphy-downsized-large.gif" width="600" height="300"/>
+  
 </div>
 
 ### :man_technologist: About Me :
