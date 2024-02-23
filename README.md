@@ -78,6 +78,7 @@
 - [Dashboard 3](https://app.powerbi.com/links/C7hmRFXb4X?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
 - [Dashboard 4](https://app.powerbi.com/links/5Pl_J3C0jR?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
 - [Dashboard 5](https://app.powerbi.com/links/_prn5RX-Ed?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
+- [Dashboard 6](https://app.powerbi.com/links/HqIUM_RSmq?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare&bookmarkGuid=c6e03df0-be33-4e7d-8e6e-17e98da7f479)
 
 **Excel Files**
 - [Excel File 1](https://docs.google.com/spreadsheets/d/1_KTVw0wKfVfdgEits0W2o9Q6pIIV5eUH/edit?usp=sharing&ouid=114976463775882040929&rtpof=true&sd=true)
