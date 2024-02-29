@@ -83,6 +83,7 @@
   
 **Excel Files**
 - [Pizza Delivery Sales Report](https://1drv.ms/x/s!Ai__AMiVPNaiggdlh6ycOQGBkh2e?e=qZXAw1)
+- [financial_loan_EDA_Bank_Loan_Analysis]("https://onedrive.live.com/embed?resid=469ECD2B388295E2%21143&authkey=!ACcG9TBwAVLANd0&em=2" width="402" height="346" frameborder="0" scrolling="no">)
 - [Excel File 1](https://docs.google.com/spreadsheets/d/1_KTVw0wKfVfdgEits0W2o9Q6pIIV5eUH/edit?usp=sharing&ouid=114976463775882040929&rtpof=true&sd=true)
 - [Excel File 2](https://docs.google.com/spreadsheets/d/1RyWtafzM1VGWXCE4_Iy-daDmjuMFfEmsVRzLi6vlSo0/edit?usp=sharing)
 - [Excel File 3](https://docs.google.com/spreadsheets/d/1PUD7d51cpO69H3kNT4IH_1MP6PeFIL0A5utJs-zhTqg/edit?usp=sharing)
