@@ -47,6 +47,7 @@
 
 **Bank Risk Analysis**
 - [Project Report](https://link.shutterfly.com/AJ4bCmvsxEb)
+- [Project Report](https://app.powerbi.com/view?r=eyJrIjoiMGY5M2FhNjItNmFmZC00YTllLTgxZDktMGNjZDUyODE5ZGIwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - [GitHub Repository](https://github.com/gnaneshwari1802/EDA-Bank-Loan-Default-Risk-Analysis)
 
 **Sentiment Analysis**
@@ -75,6 +76,7 @@
   
 **Power BI Dashboards** 
 - [Pizza Delivery Sales Report](https://app.powerbi.com/links/HqIUM_RSmq?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare&bookmarkGuid=c6e03df0-be33-4e7d-8e6e-17e98da7f479)
+- [EDA_Bank_Loan_Analysis_Report](https://app.powerbi.com/view?r=eyJrIjoiMGY5M2FhNjItNmFmZC00YTllLTgxZDktMGNjZDUyODE5ZGIwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - [AdventureWorks Report](https://app.powerbi.com/links/J96Vs_3Ey-?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare&bookmarkGuid=0639f5dc-10f8-4709-8719-70142efc7674)
 - [Dashboard 2](https://link.shutterfly.com/w7HOfjqsAEb)
 - [Data Visualisation-Empowering Business with Effective Insights-PowerBI](https://app.powerbi.com/links/C7hmRFXb4X?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
