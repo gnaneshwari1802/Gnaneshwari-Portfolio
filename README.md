@@ -70,7 +70,6 @@
 
 **Tableau Dashboards** 
 - [Pizza Delivery Sales Report](https://prod-apnortheast-a.online.tableau.com/#/site/rurzedospo6418eed038/workbooks/1512612/views)
-- [Dashboard 1](https://public.tableau.com/shared/ZFH4948QW?:display_count=n&:origin=viz_share_link)
 - [Executive Overview](https://public.tableau.com/views/ExecutiveOverview_16991909696850/ExecutiveOverview?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Ratings Movies from KNN-CF and MRS System](https://public.tableau.com/views/ratingsmoviesfromknncsmrsystem/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Book2 Barchart](https://public.tableau.com/views/Book2Barchart/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
