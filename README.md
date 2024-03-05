@@ -76,7 +76,7 @@
 - [Executive Overview](https://public.tableau.com/views/ExecutiveOverview_16991909696850/ExecutiveOverview?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Ratings Movies from KNN-CF and MRS System](https://public.tableau.com/views/ratingsmoviesfromknncsmrsystem/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Book2 Barchart](https://public.tableau.com/views/Book2Barchart/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-- [Tata-Virtual-Internship-Project (Data Visualisation)(Effective Business Insights](https://github.com/gnaneshwari1802/Forage-Job-Simulations/blob/main/Tata-Virtual-Internship-Project%20(Data%20Visualisation)/Task%203%20Creating%20Effective%20Visuals/TATA%20Task3.twbx)
+- [Tata-Virtual-Internship-Project (Data Visualisation)(Effective Business Insights)](https://github.com/gnaneshwari1802/Forage-Job-Simulations/blob/main/Tata-Virtual-Internship-Project%20(Data%20Visualisation)/Task%203%20Creating%20Effective%20Visuals/TATA%20Task3.twbx)
   
 **Power BI Dashboards** 
 - [Pizza Delivery Sales Report](https://app.powerbi.com/links/HqIUM_RSmq?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare&bookmarkGuid=c6e03df0-be33-4e7d-8e6e-17e98da7f479)
