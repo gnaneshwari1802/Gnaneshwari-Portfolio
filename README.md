@@ -15,7 +15,7 @@
 
 ### :woman_technologist: About Me:
 - 🔭 **Currently Seeking:** Data Science Engineer positions.
-- 🌱 **Currently Learning:** Deep Learning with PyTorch.
+- 🌱 **Currently Learning:** Deep Learning with Anaconda Navigator.
 - 👯 **Open to Collaborate:** Freelance Projects.
 - 💬 **Ask Me About:** Anything Related to Data Science.
 - 😄 **Pronouns:** She/Her.
