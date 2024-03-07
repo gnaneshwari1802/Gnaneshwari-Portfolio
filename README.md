@@ -113,5 +113,7 @@
 - [Sales_data_sample.xlsx](Sales_data_sample.xlsx)
 - [Additional Excel File](https://1drv.ms/x/s!Ai__AMiVPNaigVxDb2WZqrKxgvtJ?e=9Wt8eA)
 
+---
+
 ### :hammer_and_wrench: Tools & Technologies:
 Python, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Scikit-learn, TensorFlow, PyTorch, Jupyter, VS Code, Firebase, Snowflake, MySQL, MongoDB, Azure, AWS, GitHub, Tableau, Power BI, Excel.
