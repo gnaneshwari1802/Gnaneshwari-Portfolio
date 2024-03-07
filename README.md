@@ -77,7 +77,13 @@
 **KPMG-Data-Analytics-Virtual-Internship**
 
 - [GitHub Repository](https://github.com/gnaneshwari1802/Forage-Job-Simulations/tree/main/KPMG-Data-Analytics-Virtual-Internship-master/KPMG-Data-Analytics-Virtual-Internship)
-  
+
+**British Airways Data Science**
+
+- [GitHub Repository](https://github.com/gnaneshwari1802/Forage-Job-Simulations/tree/main/British%20Airways%20Data%20Science%20Job%20Simulation)
+
+---
+
 **Tableau Dashboards** 
 - [Pizza Delivery Sales Report](https://prod-apnortheast-a.online.tableau.com/#/site/rurzedospo6418eed038/workbooks/1512612/views)
 - [Executive Overview](https://public.tableau.com/views/ExecutiveOverview_16991909696850/ExecutiveOverview?:language=en-US&:display_count=n&:origin=viz_share_link)
