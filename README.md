@@ -70,6 +70,7 @@
 
 **Iris Flower Classification using machine learning models** 
 - [GitHub Repository](https://github.com/gnaneshwari1802/Cod-Tech-IT-Solutions/blob/aede14293883153c13386c99c3fe9a306c647b9d/IRIS%20FLOWER%20CLASSIFICATION%20using%20machine%20learning%20models.ipynb)
+- [GitHub Repository](https://github.com/gnaneshwari1802/IRIS-FLOWER-CLASSIFICATION-using-machine-learning-models.git)
 
 **Tata-Virtual-Internship-Project (Data Visualisation)**
 - [GitHub Repository](https://github.com/gnaneshwari1802/Forage-Job-Simulations/tree/main/Tata-Virtual-Internship-Project%20(Data%20Visualisation))
