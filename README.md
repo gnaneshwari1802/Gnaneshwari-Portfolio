@@ -100,11 +100,13 @@
 - [Dashboard 2](https://link.shutterfly.com/w7HOfjqsAEb)
 - [Data Visualisation-Empowering Business with Effective Insights-PowerBI](https://app.powerbi.com/links/C7hmRFXb4X?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
 - [PBIAssignment1](https://app.powerbi.com/links/5Pl_J3C0jR?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
-- [The+bad+dashboard_solution](https://app.powerbi.com/links/_prn5RX-Ed?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
+- [The+bad+dashboard_solution](https://app.powerbi.com/links/_prn5RX-Ed?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587]e7&pbi_source=linkShare)
   
 **Excel Files**
 - [Pizza Delivery Sales Report](https://1drv.ms/x/s!Ai__AMiVPNaiggdlh6ycOQGBkh2e?e=qZXAw1)
 - [Financial_EDA_Bank_Loan_Analysis](https://onedrive.live.com/embed?resid=469ECD2B388295E2%21143&authkey=!ACcG9TBwAVLANd0&em=2)
+- [All_Excel_Formulaes](https://1drv.ms/x/c/a2d63c95c800ff2f/EQ90Sq_8P2lPgodOeKdvL7YBZv7kkqi723q-G5HB2XKtOQ?e=c0pWkX)
+- [24-3d-range](https://1drv.ms/x/c/a2d63c95c800ff2f/EXEGITNRrt9ChHuX_i4JawUBP5Rst0SjZHq2aEeLyhCUhA?e=bsVCPs)
 - [Excel File 1](https://docs.google.com/spreadsheets/d/1_KTVw0wKfVfdgEits0W2o9Q6pIIV5eUH/edit?usp=sharing&ouid=114976463775882040929&rtpof=true&sd=true)
 - [Excel File 2](https://docs.google.com/spreadsheets/d/1RyWtafzM1VGWXCE4_Iy-daDmjuMFfEmsVRzLi6vlSo0/edit?usp=sharing)
 - [Excel File 3](https://docs.google.com/spreadsheets/d/1PUD7d51cpO69H3kNT4IH_1MP6PeFIL0A5utJs-zhTqg/edit?usp=sharing)
