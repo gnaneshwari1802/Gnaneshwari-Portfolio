@@ -83,6 +83,14 @@
 
 - [GitHub Repository](https://github.com/gnaneshwari1802/Forage-Job-Simulations/tree/main/British%20Airways%20Data%20Science%20Job%20Simulation)
 
+**Artificial_Neural_Network for Churn_Modelling**  
+
+- [[GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/8614040d84b2cdcf477477299bc9a3803b55eb6a/21.%20Artificial%20Neural%20Networks/artificial_neural_network%20Churn_Modelling.ipynb)
+
+**CNN_Happy_sad_faces_**
+
+- [GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/8614040d84b2cdcf477477299bc9a3803b55eb6a/4_7_July_OpenCV/CNN_Happy_sad_faces_ipynb.ipynb)
+
 ---
 
 **Tableau Dashboards** 
