@@ -13,7 +13,7 @@
 
 ---
 
-### :woman_technologist: About Me:
+### :Woman_Technologist: About Me:
 - 🔭 **Currently Seeking:** Data Science Engineer positions.
 - 🌱 **Currently Learning:** Deep Learning with Anaconda Navigator.
 - 👯 **Open to Collaborate:** Freelance Projects.
@@ -23,7 +23,7 @@
 
 ---
 
-### :mortar_board: Education:
+### :Mortar_Board: Education:
 - **B.Tech, Computer Science Engineering**
   - *Keshav Memorial Institute of Technology, JNTUH, Hyderabad*
   - CGPA: 7.8
@@ -36,7 +36,7 @@
 
 ---
 
-### :briefcase: Work Experience:
+### :Briefcase: Work Experience:
 - **Splash BI** (Associate Software Engineer)
   - [Project Details](https://www.canva.com/design/DAFzd_G5qCM/PSlt-pBvxqpZ8nLKhyWp-Q/edit?utm_content=DAFzd_G5qCM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Accenture** (Application Developer)
@@ -44,7 +44,7 @@
 
 ---
 
-### :chart_with_upwards_trend: Projects:
+### :Projects:
 
 **Bank Risk Analysis**
 - [Project Report](https://link.shutterfly.com/AJ4bCmvsxEb)
@@ -90,6 +90,15 @@
 **CNN_Happy_sad_faces_**
 
 - [GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/8614040d84b2cdcf477477299bc9a3803b55eb6a/4_7_July_OpenCV/CNN_Happy_sad_faces_ipynb.ipynb)
+
+**Face And Eye Detection**
+
+-[GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/a42cd1bdb44ab0791a738abb16034fd1c2e1b478/face%20and%20eye%20detection/Lecture_2_Face_%26_Eye_Detection.ipynb)
+
+**Mood classfication using CNN (HAPPY / SAD)**
+
+-[GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/a42cd1bdb44ab0791a738abb16034fd1c2e1b478/Mood%20classfication%20using%20CNN%20(HAPPY%20%20SAD)/Image_classifying_using_Max_pooling_.ipynb)
+
 
 ---
 
