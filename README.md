@@ -99,7 +99,11 @@
 
 - [GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/a42cd1bdb44ab0791a738abb16034fd1c2e1b478/Mood%20classfication%20using%20CNN%20(HAPPY%20%20SAD)/Image_classifying_using_Max_pooling_.ipynb)
 
+**Audio-Classification**
 
+- [GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/tree/main/Audio-Classification)
+
+  
 ---
 
 **Tableau Dashboards** 
