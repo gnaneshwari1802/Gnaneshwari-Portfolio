@@ -85,7 +85,7 @@
 
 **Artificial_Neural_Network for Churn_Modelling**  
 
-- [[GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/8614040d84b2cdcf477477299bc9a3803b55eb6a/21.%20Artificial%20Neural%20Networks/artificial_neural_network%20Churn_Modelling.ipynb)
+- [GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/8614040d84b2cdcf477477299bc9a3803b55eb6a/21.%20Artificial%20Neural%20Networks/artificial_neural_network%20Churn_Modelling.ipynb)
 
 **CNN_Happy_sad_faces_**
 
@@ -93,11 +93,11 @@
 
 **Face And Eye Detection**
 
--[GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/a42cd1bdb44ab0791a738abb16034fd1c2e1b478/face%20and%20eye%20detection/Lecture_2_Face_%26_Eye_Detection.ipynb)
+- [GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/a42cd1bdb44ab0791a738abb16034fd1c2e1b478/face%20and%20eye%20detection/Lecture_2_Face_%26_Eye_Detection.ipynb)
 
 **Mood classfication using CNN (HAPPY / SAD)**
 
--[GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/a42cd1bdb44ab0791a738abb16034fd1c2e1b478/Mood%20classfication%20using%20CNN%20(HAPPY%20%20SAD)/Image_classifying_using_Max_pooling_.ipynb)
+- [GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/blob/a42cd1bdb44ab0791a738abb16034fd1c2e1b478/Mood%20classfication%20using%20CNN%20(HAPPY%20%20SAD)/Image_classifying_using_Max_pooling_.ipynb)
 
 
 ---
