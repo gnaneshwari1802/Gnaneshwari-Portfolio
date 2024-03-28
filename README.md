@@ -104,6 +104,9 @@
 - [GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/tree/main/Audio-Classification)
 
 
+**DataBricks Projects**
+
+- [Loan Analysis](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/601403966691405/3920441082257834/2781583388838699/latest.html)
   
 ---
 
