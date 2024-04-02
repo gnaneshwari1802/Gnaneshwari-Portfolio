@@ -103,6 +103,9 @@
 
 - [GitHub Repository](https://github.com/gnaneshwari1802/NareshDataScienceTasksAndProjects/tree/main/Audio-Classification)
 
+**Applications With Google-Gemini**
+
+- [GitHub Repository](https://github.com/gnaneshwari1802/Google-Gemini)
 
 **DataBricks Projects**
 
