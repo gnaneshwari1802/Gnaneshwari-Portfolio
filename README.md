@@ -126,6 +126,7 @@
 - [Data Visualisation-Empowering Business with Effective Insights-PowerBI](https://app.powerbi.com/links/C7hmRFXb4X?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
 - [PBIAssignment1](https://app.powerbi.com/links/5Pl_J3C0jR?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
 - [The+bad+dashboard_solution](https://app.powerbi.com/links/_prn5RX-Ed?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587]e7&pbi_source=linkShare)
+- [calculateMTDQTDYTDinPowerBIDAX](https://app.powerbi.com/links/eyKYNznvPW?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
   
 **Excel Files**
 - [Pizza Delivery Sales Report](https://1drv.ms/x/s!Ai__AMiVPNaiggdlh6ycOQGBkh2e?e=qZXAw1)
