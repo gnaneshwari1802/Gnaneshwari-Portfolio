@@ -126,8 +126,8 @@
 - [Data Visualisation-Empowering Business with Effective Insights-PowerBI](https://app.powerbi.com/links/C7hmRFXb4X?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
 - [PBIAssignment1](https://app.powerbi.com/links/5Pl_J3C0jR?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
 - [The+bad+dashboard_solution](https://app.powerbi.com/links/_prn5RX-Ed?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587]e7&pbi_source=linkShare)
-- [calculateMTDQTDYTDinPowerBIDAX](https://app.powerbi.com/links/eyKYNznvPW?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
-- [P12_Health Care Data Driven Decisions using Power BI](https://app.powerbi.com/links/MAcVfpq42N?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
+- [calculateMTDQTDYTDinPowerBIDAX](https://app.powerbi.com/reportEmbed?reportId=fcd349e0-75d2-461a-a8ba-348c0a57bb3d&autoAuth=true&ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7)
+- [P12_Health Care Data Driven Decisions using Power BI](https://app.powerbi.com/reportEmbed?reportId=b006606f-dc96-4d6e-8c79-2144a7edf495&autoAuth=true&ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7)
   
 **Excel Files**
 - [Pizza Delivery Sales Report](https://1drv.ms/x/s!Ai__AMiVPNaiggdlh6ycOQGBkh2e?e=qZXAw1)
