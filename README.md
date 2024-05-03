@@ -23,6 +23,8 @@
 
 ---
 
+![Gnaneshwari's github stats](https://github-readme-stats.vercel.app/api?username=gnaneshwari1802&theme=tokyonight&show_icons=true&hide=[%22issues%22])
+
 ### :Mortar_Board: Education:
 - **B.Tech, Computer Science Engineering**
   - *Keshav Memorial Institute of Technology, JNTUH, Hyderabad*
