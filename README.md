@@ -1,5 +1,5 @@
 <div align="left" id="badges">
-  <a href="https://www.linkedin.com/in/gnaneshwari-mahimaluru-041a731a0/">
+  <a href="https://www.linkedin.com/in/gnaneshwarim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:gnaneshwari.m2009@gmail.com">
