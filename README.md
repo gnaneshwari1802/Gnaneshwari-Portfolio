@@ -126,6 +126,8 @@
 - [Book2 Barchart](https://public.tableau.com/views/Book2Barchart/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Tata-Virtual-Internship-Project (Data Visualisation)(Effective Business Insights)](https://github.com/gnaneshwari1802/Forage-Job-Simulations/blob/main/Tata-Virtual-Internship-Project%20(Data%20Visualisation)/Task%203%20Creating%20Effective%20Visuals/TATA%20Task3.twbx)
 - [KPMG-Data-Analytics-Virtual-Internship-Project](https://github.com/gnaneshwari1802/Forage-Job-Simulations/blob/main/KPMG-Data-Analytics-Virtual-Internship-master/KPMG-Data-Analytics-Virtual-Internship/KPMG_Task-3/KPMG_module-3/KPMG%20Sprocket%20central.twbx)
+
+---
   
 **Power BI Dashboards** 
 - [Pizza Delivery Sales Report](https://app.powerbi.com/links/HqIUM_RSmq?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare&bookmarkGuid=c6e03df0-be33-4e7d-8e6e-17e98da7f479)
@@ -137,6 +139,8 @@
 - [The+bad+dashboard_solution](https://app.powerbi.com/links/_prn5RX-Ed?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587]e7&pbi_source=linkShare)
 - [calculateMTDQTDYTDinPowerBIDAX](https://app.powerbi.com/reportEmbed?reportId=fcd349e0-75d2-461a-a8ba-348c0a57bb3d&autoAuth=true&ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7)
 - [P12_Health Care Data Driven Decisions using Power BI](https://app.powerbi.com/reportEmbed?reportId=b006606f-dc96-4d6e-8c79-2144a7edf495&autoAuth=true&ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7)
+
+---
   
 **Excel Files**
 - [Pizza Delivery Sales Report](https://1drv.ms/x/s!Ai__AMiVPNaiggdlh6ycOQGBkh2e?e=qZXAw1)
@@ -153,6 +157,8 @@
 - [Additional Excel File](https://1drv.ms/x/s!Ai__AMiVPNaigVxDb2WZqrKxgvtJ?e=9Wt8eA)
 
 ---
+
+**
 
 ### :hammer_and_wrench: Tools & Technologies:
 Python, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Scikit-learn, TensorFlow, PyTorch, Jupyter, VS Code, Firebase, Snowflake, MySQL, MongoDB, Azure, AWS, GitHub, Tableau, Power BI, Excel.
