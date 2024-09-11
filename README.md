@@ -14,10 +14,10 @@
 ---
 
 ### :Woman_Technologist: About Me:
-- 🔭 **Currently Seeking:** Data Science Engineer positions.
-- 🌱 **Currently Learning:** Deep Learning with Anaconda Navigator.
-- 👯 **Open to Collaborate:** Freelance Projects.
-- 💬 **Ask Me About:** Anything Related to Data Science.
+- 🔭 **Currently Seeking:** Software Engineering positions.
+- 🌱 **Currently Learning:** AWS Cloud.
+- 👯 **Open to Collaborate:** 
+- 💬 **Ask Me About:** Anything Related to Software Development.
 - 😄 **Pronouns:** She/Her.
 - ⚡ **Fun Fact:** Always thinking about self-improvement!
 
@@ -158,7 +158,18 @@
 
 ---
 
-**
+**Web Dev Projects**
+-[Giphy Clone Web Application | Html, CSS, JavaScript](https://github.com/gnaneshwari1802/Giphy_Clone_Project)
+-[Spotify Clone. Integrated Spotify API for fetching music data](https://github.com/gnaneshwari1802/spotify_cloneJS)
+-[dynamic e-commerce fashion shopping application using HTML, CSS, JavaScript, and ReactJS](https://github.com/gnaneshwari1802/Ecommerce_MERN)
+
+---
+
+**Python Projects**
+-[Building Bus Reservation System using Python and Django: Html, CSS](https://github.com/gnaneshwari1802/Bus-Reservation-System-Using-Django)
+-[Music Web Application using Django Framework | Html, CSS, Python](https://github.com/gnaneshwari1802/P1---Music-Web-Application-using-Django-Framework-FSWD-)
+
+---
 
 ### :hammer_and_wrench: Tools & Technologies:
 Python, Java, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Scikit-learn, TensorFlow, PyTorch, Jupyter, VS Code, Firebase, Snowflake, MySQL, MongoDB, Azure, AWS, GitHub, Tableau, Power BI, Excel.
