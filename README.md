@@ -171,5 +171,12 @@
 
 ---
 
+**Java Projects**
+- [The Pizza Delivery Project](https://github.com/gnaneshwari1802/Pizza-Ordering)
+- [The Tea Shop Billing System](https://github.com/gnaneshwari1802/Online-Registration-using-java-spring-spring-boot-h5/tree/main)
+- [Java Projects Using JDBC, Spring & Spring Boot](https://github.com/gnaneshwari1802/spring6yt)
+
+---
+
 ### :hammer_and_wrench: Tools & Technologies:
 Python, Java, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Scikit-learn, TensorFlow, PyTorch, Jupyter, VS Code, Firebase, Snowflake, MySQL, MongoDB, Azure, AWS, GitHub, Tableau, Power BI, Excel.
