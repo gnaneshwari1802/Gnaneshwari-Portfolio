@@ -159,7 +159,7 @@
 ---
 
 **Web Dev Projects**
-- [Giphy Clone Web Application | Html, CSS, JavaScript](https://github.com/gnaneshwari1802/Giphy_Clone_Project)
+- [Giphy Clone Web Application Html, CSS, JavaScript](https://github.com/gnaneshwari1802/Giphy_Clone_Project)
 - [Spotify Clone. Integrated Spotify API for fetching music data](https://github.com/gnaneshwari1802/spotify_cloneJS)
 - [dynamic e-commerce fashion shopping application using HTML, CSS, JavaScript, and ReactJS](https://github.com/gnaneshwari1802/Ecommerce_MERN)
 
@@ -167,7 +167,7 @@
 
 **Python Projects**
 - [Building Bus Reservation System using Python and Django: Html, CSS](https://github.com/gnaneshwari1802/Bus-Reservation-System-Using-Django)
-- [Music Web Application using Django Framework | Html, CSS, Python](https://github.com/gnaneshwari1802/P1---Music-Web-Application-using-Django-Framework-FSWD-)
+- [Music Web Application using Django Framework Html, CSS, Python](https://github.com/gnaneshwari1802/P1---Music-Web-Application-using-Django-Framework-FSWD-)
 
 ---
 
