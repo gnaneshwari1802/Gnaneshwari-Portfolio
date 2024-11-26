@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/facebook-yellow?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/gnaneshwari___/">
-    <img src="https://img.shields.io/badge/facebook-pink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
