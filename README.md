@@ -49,6 +49,12 @@
 
 ---
 
+### :DataStructures And Algorithms
+- **Hackerrank** [Hackerrank](https://www.hackerrank.com/profile/gnaneshwari_m201)
+- **Hackerearth** [Hackerearth](https://www.hackerearth.com/@mahimaluru/)
+- **Leetcode** [Leetcode](https://leetcode.com/u/user8334w/)
+- **NoviPro** [NoviPro](https://my.novypro.com/gnanu)
+
 ### :Projects:
 
 **Bank Risk Analysis**
