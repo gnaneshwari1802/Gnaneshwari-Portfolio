@@ -11,6 +11,9 @@
   <a href="https://facebook.com/https://www.facebook.com/gnaneshwari.mahimaluru">
     <img src="https://img.shields.io/badge/facebook-yellow?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="https://instagram.com/https://www.facebook.com/gnaneshwari.mahimaluru](https://www.instagram.com/gnaneshwari___/">
+    <img src="https://img.shields.io/badge/facebook-pink?style=for-the-badge&logo=facebook&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 
@@ -54,6 +57,8 @@
 - **Hackerearth** [Hackerearth](https://www.hackerearth.com/@mahimaluru/)
 - **Leetcode** [Leetcode](https://leetcode.com/u/user8334w/)
 - **NoviPro** [NoviPro](https://my.novypro.com/gnanu)
+
+---
 
 ### :Projects:
 
