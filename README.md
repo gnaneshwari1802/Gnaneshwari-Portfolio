@@ -8,6 +8,9 @@
   <a href="https://twitter.com/gnanu34242">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://facebook.com/https://www.facebook.com/gnaneshwari.mahimaluru">
+    <img src="https://img.shields.io/badge/facebook-yellow?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
 
 
